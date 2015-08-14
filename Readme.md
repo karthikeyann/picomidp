@@ -1,8 +1,9 @@
-# (picomidp)Proteus J2ME Browser
+# (picomidp) Proteus J2ME Browser
 
 PicoBrowser (MIDP): A tiny cHTML compatible web browser written for the MIDP platform.
 
-This was my hobby project during my B.tech 6th sem leave. \
+This was my hobby project during my B.tech 6th sem leave. 
+
 Important changes list:
 
  * User agent changed. 
@@ -18,7 +19,7 @@ Thanks to Mr. Henry Minsky and his [Proteus Source](http://sourceforge.net/proje
 
 ### Stuff used to make this:
 
- * [Original Source](http://sourceforge.net/projects/protheus/) - sourceforge original source code
+ * [Original Source](http://sourceforge.net/projects/protheus/) - sourceforge original source code (source code shows Proteus J2ME browser, The owner site says, PicoBrowser)
  * [Owner site](http://www.beartronics.com/bearlib.sourceforge.net/index.html)
  * [More Info from Owner](http://www.beartronics.com/bearlib.sourceforge.net/www/pico.html) 
  * [My Blog](techbir.wordpress.com)
