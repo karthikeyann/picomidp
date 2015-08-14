@@ -1,0 +1,41 @@
+<h1>Form Test</h1>
+FORM 1 POST
+<br>
+<form action="http://domokun.wem.sfc.keio.ac.jp/SYSTEM/picoget.tcl" method=POST>
+Color<br>
+<select name=color>
+<option value=red>Bright Red</option>
+<option value=blue>Pretty Blue</option>
+<option value=green>Pea Green</option>
+</select>
+<br>
+Size <input type=checkbox name=size value=lrg>Large
+<input type=checkbox name=size value=med>Medium
+<input type=checkbox checked name=size value=sml>Small
+<br>
+Color <input type=radio name=color2 value=blue>Blue
+<input type=radio name=color2 value=green>Green
+<input type=radio checked name=color2 value=red>Red
+<br>
+
+Flavor<br>
+<input type=text name=flavor value=vanilla size=24>
+<center>
+<input type=submit value=Enter name=button>
+<input type=hidden name="casper" value="friendly ghost">
+</center>
+</form>
+
+
+FORM 2 GET
+<form action="http://domokun.wem.sfc.keio.ac.jp/SYSTEM/picoget2.tcl" method=GET>
+<br>
+Country<br>
+<input type=text name=country value="Japan" size=24>
+<br>
+City<br>
+<input type=text name=city value="Tokyo" size=24>
+<center>
+<input type=submit value=Doit name=button>
+</center>
+</form>

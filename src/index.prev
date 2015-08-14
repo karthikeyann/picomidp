@@ -1,0 +1,16 @@
+<html>
+<body>
+<title>This should not appear in the page</title>
+<h1>Heading 1</h1>
+<center>Hi There!</center>
+This is Pookie Bear. 
+<center><img src="/pookie.png">yay</center>
+
+The <a href="page2.html">quick brown</a> fox jumps over the lazy god.
+<pre>This is a
+preformat text
+region
+</pre>
+ 123456 78 9 10 11 12 13 Zebra Giraffe Lion &amp; Unicorn. &quot;Yow&quot; said the &lt;duck&gt;.
+</body>
+</html>

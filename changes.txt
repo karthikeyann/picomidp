@@ -1,0 +1,18 @@
+changes done
+************
+user agent changed
+error in list corrected
+error in text input corrected
+down up, pgdn, pgup next link feature changed
+screen size - space for showing "options back" -> dependent on phone 
+changed " for form attributes to " and '
+
+changed page up & down to left & right key
+options key > Exit
+back key    > back
+
+Changes done by:
+****************
+KARTHIKEYAN.N
+****************
+techbird.wordpress.com
